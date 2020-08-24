@@ -54,6 +54,7 @@
         android:background="@color/colorPrimary"
         android:text="login"
         android:textColor="#FFFFFF"
+        android:id="@+id/btnlogin"
         />
     <TextView
         android:layout_width="wrap_content"
