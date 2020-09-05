@@ -20,7 +20,7 @@ public class ControlClass extends AppCompatActivity {
             startActivity(new Intent(getApplicationContext(),MainActivity.class));
             finish();
         }else{
-            startActivity(new Intent(getApplicationContext(),Mainmenu.class));
+            startActivity(new Intent(getApplicationContext(),MainMenu.class));
             finish();
 
         }
